@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saraba-alt
+- 👋 Hi, I’m Barsbold
 - 👀 I’m interested in Computer science and programming
-- 🌱 I’m currently learning JavaScript, C/C++, Python and Dart for Flutter
+- 🌱 I’m currently learning JavaScript Frameworks, C/C++, Python and Dart for Flutter
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: You don't wanna reach me. Cuz I don't know nothing.
 
